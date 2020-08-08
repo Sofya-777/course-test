@@ -1,2 +1,2 @@
-# course-test
+# Course-test
 test repo
